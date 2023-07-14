@@ -23,7 +23,7 @@ Fulfill the below user stories and get all of the tests to pass. Use whichever l
 - User Story #15: My calculator should have several decimal places of precision when it comes to rounding (note that there is no exact standard, but you should be able to handle            calculations like 2 / 7 with reasonable precision to at least 4 decimal places).
 
 # Solution Challenge
-
+In this challenge I tried to get as close as possible to your solution:
 - Live Site URL: [Codepen](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/oNarmQx)
 
 # Author
